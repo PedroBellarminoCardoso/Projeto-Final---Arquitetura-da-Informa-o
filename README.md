@@ -1,1 +1,1 @@
-# Projeto-Final---Arquitetura-da-Informa-o
+# Projeto-Final - Arquitetura-da-Informação
