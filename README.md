@@ -4,8 +4,9 @@ O objetivo deste projeto é desenvolver a Arquitetura de Informação (AI) compl
 
 ### Integrantes
 
-Alex Farias De Abreu Nabo -<br>
+Alex Farias De Abreu Nabo - Alex-Farias<br>
 Pedro Bellarmino Cardoso - PedroBellarminoCardoso<br>
+Stephan anthony marques dos santos - StephanAnthony<br>
 
 ### Nome do produto [Nome do produto digital]
 
