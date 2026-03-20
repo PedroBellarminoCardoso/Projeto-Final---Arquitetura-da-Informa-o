@@ -9,7 +9,7 @@ Pedro Bellarmino Cardoso - PedroBellarminoCardoso<br>
 
 ### Nome do produto [Nome do produto digital]
 
-###Problema (dor) que o produto resolve (2–4 linhas)
+### Problema (dor) que o produto resolve (2–4 linhas)
 [Descreva o problema principal que seu
 produto busca solucionar para o usuário ou para o negócio.]
 
