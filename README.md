@@ -1,9 +1,24 @@
-## Projeto-Final - Arquitetura-da-Informação
+## 📌 Projeto Final — Arquitetura da Informação
 
-O objetivo deste projeto é desenvolver a Arquitetura de Informação (AI) completa de um produto digital, partindo do entendimento das necessidades do usuário até um protótipo funcional no Figma ou outra ferramenta de sua preferência. O foco principal não é a estética visual, mas sim a encontrabilidade, a organização lógica e a clareza dos sistemas de navegação e busca, garantindo que o usuário encontre o que precisa de forma eficiente e intuitiva.
+Este projeto tem como objetivo o desenvolvimento completo da **Arquitetura da Informação (AI)** de um produto digital, abrangendo desde a identificação das necessidades dos usuários até a criação de um protótipo funcional, utilizando ferramentas como Figma (ou similares).
 
-### Integrantes
+O foco principal do projeto está na construção de uma experiência eficiente e intuitiva, priorizando:
 
-Alex Farias De Abreu Nabo - Alex-Farias<br>
-Pedro Bellarmino Cardoso - PedroBellarminoCardoso<br>
-Stephan anthony marques dos santos - StephanAnthony<br>
+- 🔍 **Encontrabilidade da informação**
+- 🗂️ **Organização lógica do conteúdo**
+- 🧭 **Clareza nos sistemas de navegação e busca**
+
+Diferentemente de projetos centrados no design visual, este trabalho enfatiza a estrutura e a usabilidade, garantindo que o usuário consiga localizar o que precisa de forma rápida, simples e eficaz.
+
+---
+
+## 👥 Equipe
+
+- **Alex Farias De Abreu Nabo**  
+  GitHub: Alex-Farias  
+
+- **Pedro Bellarmino Cardoso**  
+  GitHub: PedroBellarminoCardoso  
+
+- **Stephan Anthony Marques dos Santos**  
+  GitHub: StephanAnthony  
